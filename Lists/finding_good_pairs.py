@@ -9,4 +9,5 @@ for i in range(len(nums)):
         if nums[i] == nums[j]:
             count +=1
     ans = count + ans
-print(ans)
+
+print(ans)  
